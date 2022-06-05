@@ -1,4 +1,4 @@
 def presentacion():
-    print("Hola mundo  A9G2")
+    print("Trabajo practico Grupo 2 Aula 9 - A9G2")
 
-#sin terminar    
+ 
