@@ -13,6 +13,6 @@ presentacion()
 enteros = ing2i()
 print('Los enteros ingresados son: ', enteros[0], enteros[1])
 
-cadenas = ing2s()
-print('Los strings ingresados son: ', cadenas[0], cadenas[1])
+strings = ing2s()
+print('Los strings ingresados son: ', strings[0], strings[1])
 
